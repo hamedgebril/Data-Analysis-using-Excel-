@@ -69,4 +69,62 @@ The dashboard allows decision-makers to quickly identify trends, top performers,
 
 ---
 
-## 📁 Folder Structure
+
+---
+
+
+---
+
+## 🧭 How to Use
+1. Download the Excel file from `/excel/` folder.  
+2. Open in **Microsoft Excel (Office 365 / Excel 2019+)**.  
+3. Go to `Data` → `Queries & Connections` → **Refresh All** to load data.  
+4. Navigate to the “Dashboard” sheet to explore:
+   - Revenue trend charts  
+   - Profit margin visuals  
+   - Interactive filters and KPIs  
+
+---
+
+## 🧠 Key Learnings
+- End-to-end business analysis using Excel only.  
+- Applying Power Query for ETL (Extract, Transform, Load).  
+- Building data models and creating relationships.  
+- Using DAX / calculated measures in Power Pivot.  
+- Designing clear and interactive dashboards.
+
+---
+
+## 📸 Dashboard Screenshots
+
+### 💼 Customer Analysis View  
+![Customer Analysis Dashboard](./images/customer_analysis.jpg)
+
+### 💰 Profit Analysis View  
+![Profit Analysis Dashboard](./images/profit_analysis.jpg)
+
+*(You can add more screenshots inside `/images/` folder)*
+
+---
+
+## 👥 Project Team
+
+| Name | Role |
+|------|------|
+| **Hamed Gebril** | Data Analyst – Dashboard Design & Power Query |
+| **Asem Fareed** | Data Analyst – Data Modeling & Visualization |
+
+---
+
+## 📄 License
+This project is released under the **MIT License**.  
+You’re free to use and adapt it for learning or professional purposes.
+
+---
+
+## ✨ Contact
+📧 **Hamed Gebril** – [your.email@example.com]  
+📧 **Asem Fareed** – [your.email@example.com]  
+🔗 [LinkedIn](#) | [GitHub](#)
+ 
+
