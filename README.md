@@ -70,10 +70,6 @@ The dashboard allows decision-makers to quickly identify trends, top performers,
 ---
 
 
----
-
-
----
 
 ## 🧭 How to Use
 1. Download the Excel file from `/excel/` folder.  
@@ -95,17 +91,7 @@ The dashboard allows decision-makers to quickly identify trends, top performers,
 
 ---
 
-## 📸 Dashboard Screenshots
 
-### 💼 Customer Analysis View  
-![Customer Analysis Dashboard](./images/customer_analysis.jpg)
-
-### 💰 Profit Analysis View  
-![Profit Analysis Dashboard](./images/profit_analysis.jpg)
-
-*(You can add more screenshots inside `/images/` folder)*
-
----
 
 ## 👥 Project Team
 
@@ -122,9 +108,6 @@ You’re free to use and adapt it for learning or professional purposes.
 
 ---
 
-## ✨ Contact
-📧 **Hamed Gebril** – [your.email@example.com]  
-📧 **Asem Fareed** – [your.email@example.com]  
-🔗 [LinkedIn](#) | [GitHub](#)
+
  
 
