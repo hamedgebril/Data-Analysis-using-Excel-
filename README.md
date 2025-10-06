@@ -102,11 +102,7 @@ The dashboard allows decision-makers to quickly identify trends, top performers,
 
 ---
 
-## 📄 License
-This project is released under the **MIT License**.  
-You’re free to use and adapt it for learning or professional purposes.
 
----
 
 
  
